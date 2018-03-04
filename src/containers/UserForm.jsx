@@ -12,7 +12,7 @@ class userForm extends Component {
     render() {
     return (<div class=" col ">
                 <div class="text-center ">
-                    <h5><b>Зарегистрируйтесь</b> и начните продовать
+                    <h5><b>Зарегистрируйтесь</b> и начните продавать
                         услуги через интернет уже сегодня
                     </h5>
                 </div>
