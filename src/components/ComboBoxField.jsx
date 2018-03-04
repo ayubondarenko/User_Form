@@ -9,7 +9,6 @@ export default class ComboBoxField extends Component {
         this.state = {
             showOptions: false
         };
-        console.log("конструирую", this.state.showOptions);
     }
 
     onEnter = (evt) => {
@@ -25,8 +24,6 @@ export default class ComboBoxField extends Component {
     };
 
     onBlur = evt => {
-        console.log("покидаю", evt.target);
-
         this.props.onBlur(this.props.fieldName, this.props.value);
         if (this.state.showOptions) {
             setTimeout(() => {
@@ -40,14 +37,11 @@ export default class ComboBoxField extends Component {
     };
 
     onSelect = (evt) => {
-        console.log("выбираю", this.state.showOptions);
         this.setState(...this.state, {showOptions: false});
         this.props.onSelect(evt.target.value);
     };
 
     render() {
-        console.log("перересовываю", this.state.showOptions);
-        // if(!this.props.options) this.state.showOptions = false;
         const optionStyle = {cursor: 'pointer'};
         const optionsClass = "dropdown-menu " + (this.state.showOptions ? "d-block" : "d-none");
 
