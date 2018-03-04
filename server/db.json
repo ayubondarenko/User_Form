@@ -1,0 +1,166 @@
+{
+  "Countries": [
+    {
+      "code": "+7",
+      "name": " Россия",
+      "placeHolder": "495 123 45-67",
+      "flag": "23px-Flag_of_Russia.svg.png"
+    },
+    {
+      "code": "+995",
+      "name": "Грузия",
+      "placeHolder": "9 123 45-67",
+      "flag": "23px-Flag_of_Georgia.svg.png"
+    },
+    {
+      "code": "+20",
+      "placeHolder": "495 123 45-67",
+      "name": "Египед",
+      "flag": "23px-Flag_of_Egypt.svg.png"
+    },
+    {
+      "code": "+33",
+      "placeHolder": "123 45-67-89",
+      "name": "Франция",
+      "flag": "23px-Flag_of_France.svg.png"
+    },
+    {
+      "code": "+76",
+      "placeHolder": "123 45-67-89",
+      "name": "Казахстан",
+      "flag": "23px-Flag_of_Kazakhstan.svg.png"
+    },
+    {
+      "code": "+77",
+      "placeHolder": "123 45-67-89",
+      "name": "Казахстан",
+      "flag": "23px-Flag_of_Kazakhstan.svg.png"
+    },
+    {
+      "code": "+51",
+      "placeHolder": "123 45-67-89",
+      "name": "Перу",
+      "flag": "23px-Flag_of_Peru.svg.png"
+    },
+    {
+      "code": "+381",
+      "placeHolder": "123 45-67-89",
+      "name": "Сербия",
+      "flag": "23px-Flag_of_Serbia.svg.png"
+    },
+    {
+      "code": "+86",
+      "placeHolder": "123 45-67-89",
+      "name": "Китай",
+      "flag": "23px-Flag_of_the_People's_Republic_of_China.svg.png"
+    },
+    {
+      "code": "+1",
+      "placeHolder": "123 45-67-89",
+      "name": "США",
+      "flag": "23px-Flag_of_the_United_States.svg.png"
+    },
+    {
+      "code": "+90",
+      "placeHolder": "123 45-67-89",
+      "name": "Турция",
+      "flag": "23px-Flag_of_Turkey.svg.png"
+    },
+    {
+      "code": "+1",
+      "placeHolder": "123 45-67-89",
+      "name": "Канада",
+      "flag": "Flag_of_Canada.svg.png"
+    }
+  ],
+  "Professions": [
+    {
+      "id": "1",
+      "name": "Швея"
+    },
+    {
+      "id": "2",
+      "name": "Повар"
+    },
+    {
+      "id": "3",
+      "name": "Лесник"
+    },
+    {
+      "id": "4",
+      "name": "Водитель"
+    },
+    {
+      "id": "5",
+      "name": "Программист"
+    },
+    {
+      "id": "6",
+      "name": "Инженер"
+    },
+    {
+      "id": "7",
+      "name": "Агротехник"
+    },
+    {
+      "id": "8",
+      "name": "Врач"
+    },
+    {
+      "id": "9",
+      "name": "Биолог"
+    },
+    {
+      "id": "10",
+      "name": "Зоолог"
+    },
+    {
+      "id": "11",
+      "name": "Хкдожни"
+    },
+    {
+      "id": "12",
+      "name": "Ветеренар"
+    },
+    {
+      "id": "13",
+      "name": "Комбайнер"
+    },
+    {
+      "id": "14",
+      "name": "Руководитель"
+    },
+    {
+      "id": "15",
+      "name": "Резчик по металу"
+    },
+    {
+      "id": "16",
+      "name": "Преподаватель"
+    },
+    {
+      "id": "17",
+      "name": "Архитектор"
+    },
+    {
+      "id": "18",
+      "name": "Строитель"
+    },
+    {
+      "id": "19",
+      "name": "Монтажник"
+    },
+    {
+      "id": "20",
+      "name": "Писатель"
+    },
+    {
+      "id": "21",
+      "name": "Артист"
+    },
+    {
+      "id": "22",
+      "name": "Художник"
+    }
+  ]
+}

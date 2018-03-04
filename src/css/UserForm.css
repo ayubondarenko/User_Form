@@ -1,0 +1,52 @@
+.error-field{
+    color: red;
+    line-height: 100%;
+    font-size: small;
+}
+.error-fame{
+    border-color:red ;
+}
+.app-middle {
+    /*height: 400px;*/
+    width: 500px;
+    position: relative;
+    top: 50px;
+    left: 50px;
+    padding: 20px;
+    /*margin-top: -100px;*/
+    /*margin-left: -200px;*/
+}
+.result{
+    padding: 50px;
+}
+
+.text-center{
+    text-align: center;
+    margin-top: 20px;
+}
+.text-field{
+    margin: 10px;
+    padding: 5px;
+}
+.user-form{
+    border: solid darkgray;
+    border-radius: 10px;
+
+}
+.label {
+    color: darkgrey;
+}
+.input-text{
+    border: none;
+}
+.phone-code{
+    /*line-height: 40px;*/
+
+}
+.reg-button{
+    margin: 20px;
+
+}
+.pointer-cursor{
+    cursor: pointer;
+}
