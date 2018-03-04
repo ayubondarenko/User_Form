@@ -42,7 +42,7 @@ class userForm extends Component {
             </div >
                 <div class="d-flex justify-content-center reg-button ">
                     <button type="button" onClick={e => this.props.onRegister(e)} class="btn btn-primary btn-lg">
-                        Зарегистрироватся
+                        Зарегистрироваться
                     </button>
                 </div>
             </div>
